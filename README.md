@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+# 技能概述 Skills
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbq191&hide=HTML,css,php&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbq191&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **bbq191/bbq191** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
