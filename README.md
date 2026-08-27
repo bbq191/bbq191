@@ -15,10 +15,10 @@
   />
 </a>
 
-<a href="https://github.com/bbq191/ccopernicus">
+<a href="https://github.com/bbq191/copernicus">
   <img
     align="center"
-    src="https://github-stats-extended.vercel.app/api/pin/?username=bbq191&repo=ccopernicus"
+    src="https://github-stats-extended.vercel.app/api/pin/?username=bbq191&repo=copernicus"
   />
 </a>
 <a href="https://github.com/bbq191/dotfiles">
