@@ -1,5 +1,29 @@
-# 会的不多 🐶
+# 🐶
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbq191&hide=HTML,css,php&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
+<a href="https://github-stats-extended.vercel.app/api?username=bbq191">
+  <img
+    height="200"
+    align="center"
+    src="https://github-stats-extended.vercel.app/api?username=bbq191"
+  />
+</a>
+<a href="https://github-stats-extended.vercel.app/api/top-langs?username=bbq191&layout=compact&langs_count=8&card_width=320">
+  <img
+    height="200"
+    align="center"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=bbq191&layout=compact&langs_count=8&card_width=320"
+  />
+</a>
 
+<a href="https://github.com/bbq191/github-readme-stats">
+  <img
+    align="center"
+    src="https://github-stats-extended.vercel.app/api/pin/?username=bbq191&repo=github-readme-stats"
+  />
+</a>
+<a href="https://github.com/bbq191/convoychat">
+  <img
+    align="center"
+    src="https://github-stats-extended.vercel.app/api/pin/?username=bbq191&repo=convoychat"
+  />
+</a>
