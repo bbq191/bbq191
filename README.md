@@ -15,13 +15,13 @@
   />
 </a>
 
-<a href="https://github.com/bbq191/github-readme-stats">
+<a href="https://github.com/bbq191/ccopernicus">
   <img
     align="center"
     src="https://github-stats-extended.vercel.app/api/pin/?username=bbq191&repo=ccopernicus"
   />
 </a>
-<a href="https://github.com/bbq191/convoychat">
+<a href="https://github.com/bbq191/dotfiles">
   <img
     align="center"
     src="https://github-stats-extended.vercel.app/api/pin/?username=bbq191&repo=dotfiles"
