@@ -18,12 +18,12 @@
 <a href="https://github.com/bbq191/github-readme-stats">
   <img
     align="center"
-    src="https://github-stats-extended.vercel.app/api/pin/?username=bbq191&repo=github-readme-stats"
+    src="https://github-stats-extended.vercel.app/api/pin/?username=bbq191&repo=ccopernicus"
   />
 </a>
 <a href="https://github.com/bbq191/convoychat">
   <img
     align="center"
-    src="https://github-stats-extended.vercel.app/api/pin/?username=bbq191&repo=convoychat"
+    src="https://github-stats-extended.vercel.app/api/pin/?username=bbq191&repo=dotfiles"
   />
 </a>
