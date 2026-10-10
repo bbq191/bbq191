@@ -18,3 +18,5 @@
 - **[copernicus](https://github.com/bbq191/copernicus)** · 音视频智能听写与合规审核工作台 · `FastAPI` `FunASR` `LLM` `React`
 - **[galileo](https://github.com/bbq191/galileo)** · 自然语言转 SQL 智能查询系统 · `Next.js 14` `DeepSeek` `Prisma`
 - **[find-my-android](https://github.com/bbq191/find-my-android)** · 仿 iOS Find My 的 Android 定位追踪应用 · `Compose` `Mapbox` `MQTT`
+- **[sheng-ren](https://github.com/bbq191/sheng-ren)** · 电子书书库与按阅读模式优化工具（Kindle AZW3 / 掌阅 / reMarkable Move） · `Rust` `EPUB` `KFX`
+- **[cang-jie](https://github.com/bbq191/cang-jie)** · reMarkable Paper Pro Move 设备增强套件，不改动 xochitl · `Rust` `xovi` `Web 服务`
